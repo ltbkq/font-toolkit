@@ -12,12 +12,9 @@
 ### 1.1 Arial 系列
 - Arial (Regular, Bold, Italic, Bold Italic)
 - Arial Black
-- Arial Narrow (Regular, Bold, Italic, Bold Italic)
-- Arial Unicode MS
 
 ### 1.2 Times New Roman 系列
 - Times New Roman (Regular, Bold, Italic, Bold Italic)
-- Times New Roman PS
 
 ### 1.3 Courier New 系列
 - Courier New (Regular, Bold, Italic, Bold Italic)
@@ -76,7 +73,6 @@
 ### 1.18 其他 Windows 字体
 - Bahnschrift (Regular, SemiBold, Light)
 - Franklin Gothic Medium
-- Gabrielola
 - Javanese Text
 - Ink Free
 - Microsoft Sans Serif
@@ -92,8 +88,6 @@
 - SimKai / 楷体
 - FangSong / 仿宋
 - KaiTi / 楷体
-- Source Han Sans / 思源黑体
-- Source Han Serif / 思源宋体
 - Segoe MDL2 Assets
 - HoloLens MDL2 Assets
 - Segoe Fluent Icons
@@ -108,62 +102,7 @@
 - Leelawadee UI
 - Malgun Gothic / 맑은 고딕
 - Gabriola
-- Myriad Arabic
-- Vrinda
-- Raavi
-- Shruti
-- Kartika
-- Angsana New
-- Browallia New
-- Cambodia
-- Cordia New
-- DA Font
-- DokChampa
-- EucrosiaUPC
-- Ferrow
-- FridaHanna
-- Garuda
-- Gunter
 - Himalaya
-- IrisUPC
-- Joypee
-- KaiPal
-- Kinnari
-- Latha
-- LavandeP52
-- LilyUPC
-- Mahi2000
-- Mango
-- Manuale
-- Meiryo
-- Meiryo UI
-- Miriam
-- Miriam Mono
-- Monotype Sorts
-- MoolBoran
-- NHaeba
-- Nikosh
-- Nyala
-- Pinncho
-- Raavi
-- Rod
-- Sakkal Majalla
-- Santana
-- Sarkar
-- Sawasdee
-- Scoop
-- Shruti
-- Silom
-- Simplified Arabic
-- Surav
-- Times New Roman PS MT
-- Tianwen
-- Umpush
-- Vijaya
-- Vil
-- Vista
-- VisualGIS
-- Wadman
 - Z003
 - D050000L
 - 等线 / DengXian
@@ -183,8 +122,6 @@
 - SimSun-ExtB / 宋体-ExtB
 - MingLiU-ExtB / 细明体-ExtB
 - PMingLiU-ExtB / 新细明体-ExtB
-- Source Han Sans / 思源黑体
-- Source Han Serif / 思源宋体
 - Noto Sans CJK SC
 - Noto Sans CJK TC
 - Noto Sans CJK HK
@@ -207,7 +144,6 @@
 - Noto Sans Symbols (Regular, Bold)
 - Noto Sans Symbols2 (Regular)
 - Noto Sans Math (Regular)
-- Noto Sans Emoji (Regular)
 
 ### 2.2 Noto Sans CJK 系列
 | 变体 | 字重 |
@@ -230,7 +166,6 @@
 ### 2.4 Noto Serif 系列
 - Noto Serif (Regular, Bold, Bold Italic, Italic)
 - Noto Serif Display (Regular, Bold, Bold Italic, Italic)
-- Noto Serif Mono (Regular)
 
 ### 2.5 Noto Sans 语言变体 (部分)
 包含以下语言的 Noto Sans 字体：
@@ -241,8 +176,6 @@
 - Arabic, Armenian, Balinese, Bengali, Brahmi, Cambodian, Chakma, Cham, Cherokee, Coptic, Cypriot, Devanagari, Egyptian Hieroglyphs, Ethiopic, Georgian, Glagolitic, Gothic, Gujarati, Gurmukhi, Hebrew, Kannada, Khmer, Lao, Latin, Malayalam, Mongolian, Myanmar, Nandinagari, New Tai Lue, N'Ko, Oriya, Osage, Palmyrene, Pau Cin Hau, Phags Pa, Psalter Pahlavi, Sharada, Sinhala, Tamil, Telugu, Thai, Tibetan, Tifinagh, Tirhuta, Tamil Slanted, Warang Citi, Yezidi
 
 ### 2.7 Noto UI 系列
-- Noto Sans UI (各语言 UI 变体)
-- Noto Serif UI
 - Noto Looped Lao UI
 - Noto Sans Thai UI, Noto Sans Myanmar UI 等
 
@@ -280,7 +213,6 @@
 - Noto Sans Gurmukhi
 - Noto Sans Hanifi Rohingya
 - Noto Sans Hebrew
-- Noto Sans Imoorgul
 - Noto Sans Kaithi
 - Noto Sans Kayah Li
 - Noto Sans Khmer
@@ -304,15 +236,11 @@
 - Noto Sans Miao
 - Noto Sans Modi
 - Noto Sans Mongolian
-- Noto Sans Monospace
 - Noto Sans Multani
 - Noto Sans Myanmar
 - Noto Sans Nabataean
-- Noto Sans Nandinagari
 - Noto Sans New Tai Lue
 - Noto Sans N'Ko
-- Noto Sans Nyiakeng Puachue Hmong
-- Noto Sans Odia
 - Noto Sans Ogham
 - Noto Sans Ol Chiki
 - Noto Sans Old Hungarian
@@ -329,7 +257,6 @@
 - Noto Sans Pahawh Hmong
 - Noto Sans Palmyrene
 - Noto Sans Pau Cin Hau
-- Noto Sans Phags Pa
 - Noto Sans Phoenician
 - Noto Sans Psalter Pahlavi
 - Noto Sans Rejang
@@ -354,14 +281,12 @@
 - Noto Sans Telugu
 - Noto Sans Thaana
 - Noto Sans Thai
-- Noto Sans Tibetan
 - Noto Sans Tifinagh
 - Noto Sans Tirhuta
 - Noto Sans Ugaritic
 - Noto Sans Vai
 - Noto Sans Wancho
 - Noto Sans Warang Citi
-- Noto Sans Yezidi
 - Noto Sans Yi
 - Noto Sans Zanabazar Square
 
@@ -417,8 +342,6 @@
 - SimSun-ExtB / 宋体-ExtB
 
 ### 6.6 其他中文字体
-- Source Han Sans / 思源黑体 (SC)
-- Source Han Serif / 思源宋体 (SC)
 - Noto Sans CJK SC / 思源黑体 SC
 - Noto Serif CJK SC / 思源宋体 SC
 - 教育部標準楷書
@@ -453,23 +376,17 @@
 ### 8.3 显示字体
 - Impact
 - Comic Sans MS
-- Papyrus
 
 ### 8.4 Monospace 字体
-- Monaco
-- Menlo
 - Andale Mono
 - Nimbus Mono PS
-- Nimbus Mono PS Italic
+- Nimbus Mono PS (Regular, Bold, Italic, Bold Italic)
 
 ### 8.5 衬线字体
 - Palatino Linotype
-- Century Schoolbook
-- Book Antiqua
 - URW Bookman
 
 ### 8.6 其他开源字体
-- GNU FreeFont
 - Nimbus Sans
 - Nimbus Roman
 - P052

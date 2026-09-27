@@ -47,7 +47,6 @@
 - **Arial** (Regular, Bold, Italic, Bold Italic, Black, Narrow)
 - **Arial Black** (Regular)
 - **Andale Mono** (Regular)
-- **Ar Baidu**
 
 #### B
 - **Bahnschrift** (Regular, SemiBold, Light, Bold, SemiLight)
@@ -68,7 +67,6 @@
 
 #### E
 - **Ebrima** (Regular, Bold)
-- **Effect**
 
 #### F
 - **Franklin Gothic Medium** (Regular)
@@ -80,7 +78,6 @@
 - **Gabriola** (Regular)
 - **Gadugi** (Regular, Bold)
 - **Georgia** (Regular, Bold, Italic, Bold Italic)
-- **Gungsub**
 
 #### H
 - **Impact** (Regular)
@@ -89,11 +86,9 @@
 
 #### J
 - **Javanese Text** (Regular)
-- **Jamo**
 
 #### K
 - **KaiTi** (楷体)
-- **Kalinga**
 
 #### L
 - **Leelawadee UI** (Regular, Semilight)
@@ -114,7 +109,6 @@
 - **Microsoft JhengHei** (Regular, Bold)
 - **Microsoft Himalaya** (Regular)
 - **MingLiU** (Regular, ExtB)
-- **Monotype Sorts**
 
 #### N
 - **Nimbus Sans** (Regular, Bold, Italic)
@@ -126,7 +120,6 @@
 - **Noto Sans Symbols** (Regular, Bold)
 - **Noto Sans Symbols2** (Regular)
 - **Noto Sans Math** (Regular)
-- **Noto Sans Emoji** (Regular)
 - **Noto Sans CJK SC** (Regular, Bold, Light, Medium, Thin, Black, DemiLight)
 - **Noto Sans CJK TC** (同SC)
 - **Noto Sans CJK HK** (同SC)
@@ -145,16 +138,12 @@
 
 #### O
 - **OpenSymbol** (Regular)
-- **Old Standard TT**
 
 #### P
 - **Palatino Linotype** (Regular, Bold, Italic, Bold Italic)
 - **PMingLiU** (Regular, ExtB)
-- **Papyrus** (Regular)
 
 #### R
-- **Raavi**
-- **Rod**
 
 #### S
 - **Segoe UI** (Regular, Semibold, Light, Black, Semilight)
@@ -173,13 +162,10 @@
 - **SimSun-ExtG** (宋体-ExtG)
 - **SimFang** (仿宋)
 - **SimKai** (楷体)
-- **Source Han Sans SC** (思源黑体)
-- **Source Han Serif SC** (思源宋体)
 
 #### T
 - **Tahoma** (Regular, Bold)
 - **Times New Roman** (Regular, Bold, Italic, Bold Italic)
-- **Times New Roman PS**
 - **Trebuchet MS** (Regular, Bold, Italic, Bold Italic)
 
 #### U
@@ -192,7 +178,6 @@
 
 #### V
 - **Verdana** (Regular, Bold, Italic, Bold Italic)
-- **Vijaya**
 
 #### W
 - **Webdings** (Regular)
@@ -201,7 +186,6 @@
 - **Wingdings** (Regular)
 
 #### X
-- **XITS**
 
 #### Y
 - **Yu Gothic** (Regular, Medium, Bold)

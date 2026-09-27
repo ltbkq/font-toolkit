@@ -3,7 +3,6 @@
 ## 1. Windows 核心字体
 Arial
 Arial Black
-Arial Narrow
 Courier New
 Times New Roman
 Verdana
@@ -38,8 +37,6 @@ PMingLiU
 NSimSun
 SimSun
 SimHei
-SimFang
-SimKai
 KaiTi
 FangSong
 Bahnschrift
@@ -59,7 +56,6 @@ Segoe UI Emoji
 Webdings
 Wingdings
 Marlett
-Monotype Sorts
 Andale Mono
 
 ## 2. Noto Sans 系列
@@ -69,7 +65,6 @@ Noto Sans Display
 Noto Sans Symbols
 Noto Sans Symbols2
 Noto Sans Math
-Noto Sans Emoji
 Noto Sans CJK SC
 Noto Sans CJK TC
 Noto Sans CJK HK
@@ -109,7 +104,6 @@ Noto Sans Gujarati
 Noto Sans Gurmukhi
 Noto Sans Hanifi Rohingya
 Noto Sans Hebrew
-Noto Sans Imoorgul
 Noto Sans Kaithi
 Noto Sans Kayah Li
 Noto Sans Khmer
@@ -137,11 +131,7 @@ Noto Sans Mongolian
 Noto Sans Multani
 Noto Sans Myanmar
 Noto Sans Nabataean
-Noto Sans Nandinagari
 Noto Sans New Tai Lue
-Noto Sans N'Ko
-Noto Sans Nyiakeng Puachue Hmong
-Noto Sans Odia
 Noto Sans Ogham
 Noto Sans Ol Chiki
 Noto Sans Old Hungarian
@@ -158,7 +148,6 @@ Noto Sans Osmanya
 Noto Sans Pahawh Hmong
 Noto Sans Palmyrene
 Noto Sans Pau Cin Hau
-Noto Sans Phags Pa
 Noto Sans Phoenician
 Noto Sans Psalter Pahlavi
 Noto Sans Rejang
@@ -183,18 +172,15 @@ Noto Sans Tamil
 Noto Sans Telugu
 Noto Sans Thaana
 Noto Sans Thai
-Noto Sans Tibetan
 Noto Sans Tifinagh
 Noto Sans Tirhuta
 Noto Sans Ugaritic
 Noto Sans Vai
 Noto Sans Wancho
 Noto Sans Warang Citi
-Noto Sans Yezidi
 Noto Sans Yi
 Noto Sans Zanabazar Square
 Noto Sans Newa
-Noto Sans Makasar
 Noto Sans Javanese
 Noto Sans Kaithi
 Noto Sans Bhaiksuki
@@ -210,46 +196,23 @@ Noto Serif CJK KR
 Noto Serif Armenian
 Noto Serif Balinese
 Noto Serif Bengali
-Noto Serif Brahmi
-Noto Serif Cambodian
-Noto Serif Chakma
-Noto Serif Cham
-Noto Serif Cherokee
-Noto Serif Coptic
-Noto Serif Cypriot
 Noto Serif Devanagari
 Noto Serif Display
 Noto Serif Ethiopic
 Noto Serif Georgian
-Noto Serif Glagolitic
-Noto Serif Gothic
 Noto Serif Gujarati
 Noto Serif Gurmukhi
 Noto Serif Hebrew
 Noto Serif Kannada
 Noto Serif Khmer
-Noto Serif Khojki
 Noto Serif Lao
 Noto Serif Malayalam
 Noto Serif Myanmar
-Noto Serif Nandinagari
-Noto Serif New Tai Lue
-Noto Serif N'Ko
-Noto Serif Oriya
-Noto Serif Osage
-Noto Serif Palmyrene
-Noto Serif Pau Cin Hau
-Noto Serif Phags Pa
-Noto Serif Psalter Pahlavi
-Noto Serif Sharada
 Noto Serif Sinhala
 Noto Serif Tamil
 Noto Serif Telugu
 Noto Serif Thai
 Noto Serif Tibetan
-Noto Serif Tifinagh
-Noto Serif Tirhuta
-Noto Serif Warang Citi
 Noto Serif Yezidi
 Noto Serif Devanagari
 Noto Serif Telugu
@@ -262,8 +225,6 @@ Noto Sans Mono CJK JP
 Noto Sans Mono CJK KR
 
 ## 5. Noto UI 系列
-Noto Sans UI (各语言)
-Noto Serif UI
 Noto Looped Lao UI
 Noto Sans Thai UI
 Noto Sans Myanmar UI
@@ -278,18 +239,10 @@ Noto Sans Kannada UI
 Noto Sans Bengali UI
 Noto Sans Oriya UI
 Noto Sans Sinhala UI
-Noto Sans Tibetan UI
-Noto Sans Georgian UI
-Noto Sans Armenian UI
-Noto Sans Georgian UI
-Noto Sans Hebrew UI
 Noto Sans Arabic UI
-Noto Sans Balinese UI
-Noto Sans Javanese UI
 Noto Sans Myanmar UI
 Noto Sans Khmer UI
 Noto Sans Lao UI
-Noto Sans New Tai Lue UI
 Noto Sans Thai UI
 
 ## 6. Ubuntu 系列
@@ -315,21 +268,11 @@ FreeSans
 FreeMono
 
 ## 10. 中文字体
-WenQuanYi Micro Hei (微米黑)
-WenQuanYi Zen Hei (正黑)
-LXGW WenKai (霞鹜文楷)
-LXGW WenKai Mono (霞鹜文楷等宽)
 AR PL UKai TW
 AR PL UKai TW MBE
 AR PL UMing TW
 AR PL UMing HK
 AR PL UMing CN
-SimSun-ExtG (宋体-ExtG)
-SimSun-ExtB (宋体-ExtB)
-MingLiU-ExtB (细明体-ExtB)
-PMingLiU-ExtB (新细明体-ExtB)
-Source Han Sans SC (思源黑体)
-Source Han Serif SC (思源宋体)
 Noto Sans CJK SC
 Noto Serif CJK SC
 
@@ -337,10 +280,8 @@ Noto Serif CJK SC
 MathJax_Main
 MathJax_Math
 MathJax_SansSerif
-MathJax_Serif
 MathJax_Script
 MathJax_Typewriter
-MathJax_Size1-4
 MathJax_Fraktur
 MathJax_Caligraphic
 MathJax_Vector
@@ -357,8 +298,6 @@ Marlett
 ## 12. 显示/装饰字体
 Impact
 Comic Sans MS
-Papyrus
-Curlz MT
 
 ## 13. Emoji 字体
 Noto Color Emoji
@@ -367,39 +306,13 @@ Segoe UI Emoji
 ## 14. 其他字体
 Andale Mono
 D050000L
-Dolgats
 Franklin Gothic Medium
 Gadugi
 Gabriola
 Hololens MDL2 Assets
 Javanese Text
-LxgwWenKai
 Microsoft PhagsPa
-Moe Standard Kai
-Moe Standard Song
-Monotype Sorts
-Namskoot
 P052
-P052-Bold
-P052-Italic
 Palatino Linotype
-SIL Open Font
-SIL Graphite
 Standard Symbols PS
-Sun-ExtA
-Sun-ExtB
-Surya
-Taile
-Thai SL
-TlwgMono
-TlwgTypo
-TlwgTypist
-Trees
-Umpush
-Vani
-Vijaya
-Visp
-Xits
-Yanone Kaffeesatz
 Z003
-Zcool
