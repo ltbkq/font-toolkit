@@ -1,5 +1,7 @@
 # 安装说明
 
+[中文文档](INSTALL.md) | **English** [INSTALL.en.md](INSTALL.en.md)
+
 ## 快速安装 (推荐)
 
 ```bash
@@ -55,18 +57,21 @@ fc-list | grep "Microsoft YaHei"
 
 ```
 font-toolkit/
-├── README.md              # 项目说明
-├── LICENSE                # 许可证
-├── INSTALL.md             # 安装说明
-├── install_fonts.sh       # 一键安装脚本
-├── fonts/
-│   ├── font-list.md       # 完整字体列表
-│   ├── font_categories.txt # 按类别分类
-│   ├── font-full-list.txt # 详细字体目录
-│   ├── FONT_CATEGORIES.md # 字体分类详细目录
-│   ├── catalog.md         # 字体目录结构
-│   ├── all_families.txt   # 所有字体族列表
-│   ├── all_fonts.txt      # 所有字体文件列表
-│   └── categories.json    # 字体分类JSON
-└── generate_font_list.py  # 字体列表生成脚本
+├── README.md              # 项目说明（中文）
+├── README.en.md           # 项目说明（英文）
+├── LICENSE                # MIT 许可证
+├── INSTALL.md             # 安装说明（中文）
+├── INSTALL.en.md          # 安装说明（英文）
+├── install_fonts.sh       # 一键安装脚本（主脚本）
+├── download_fonts.sh      # 字体下载脚本
+├── generate_font_list.py  # 字体列表生成脚本
+└── fonts/
+    ├── font-list.md       # 完整字体列表
+    ├── font-full-list.txt # 所有字体名称
+    ├── font_categories.txt # 按类别分类
+    ├── FONT_CATEGORIES.md # 字体分类详细目录
+    ├── catalog.md         # 字体目录结构
+    ├── all_families.txt   # 所有字体族列表
+    ├── all_fonts.txt      # 所有字体文件列表
+    └── categories.json    # 字体分类JSON
 ```

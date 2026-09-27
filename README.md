@@ -1,5 +1,7 @@
 # 🎨 系统字体工具包
 
+[中文文档](README.md) | **English** [README.en.md](README.en.md)
+
 一套完整的 Linux 系统字体安装工具包，包含 Windows 核心字体、Noto 全系列、CJK 中文字体、UI 字体等。
 
 ## 📋 项目简介
@@ -196,7 +198,8 @@ bash download_fonts.sh
 
 ```
 font-toolkit/
-├── README.md              # 项目说明
+├── README.md              # 项目说明（中文）
+├── README.en.md           # 项目说明（英文）
 ├── LICENSE                # MIT 许可证
 ├── INSTALL.md             # 详细安装说明
 ├── install_fonts.sh       # 一键安装脚本（主脚本）
