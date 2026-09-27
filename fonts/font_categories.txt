@@ -1,0 +1,62 @@
+Windows 核心字体:
+Arial, Arial Black, Arial Bold Italic, Arial Italic, Arial Bold
+Calibri, Calibri Light, Calibri Bold, Calibri Italic, Calibri Bold Italic
+Cambria, Cambria Bold, Cambria Italic, Cambria Bold Italic
+Candara, Candara Bold, Candara Italic, Candara Bold Italic
+Consolas, Consolas Bold, Consolas Italic, Consolas Bold Italic
+Constantia, Constantia Bold, Constantia Italic, Constantia Bold Italic
+Corbel, Corbel Bold, Corbel Italic, Corbel Bold Italic
+Courier New (all styles)
+Georgia (all styles)
+Impact
+Segoe UI (all variants)
+Tahoma (all styles)
+Times New Roman (all styles)
+Trebuchet MS (all styles)
+Verdana (all styles)
+Microsoft YaHei, Microsoft YaHei UI, Microsoft YaHei UI Light
+SimSun, SimHei, SimFang, SimKai, NSimSun
+微软雅黑, 新宋体, 黑体, 楷体, 仿宋
+Segoe UI Emoji, Segoe UI Symbol
+Comic Sans MS
+Bahnschrift
+
+Noto 系列字体:
+Noto Sans (all language variants)
+Noto Serif (all language variants)
+Noto Sans Mono CJK (SC, TC, HK, JP, KR)
+Noto Serif CJK (SC, TC, HK, JP, KR)
+Noto Color Emoji
+Noto Music
+Noto Sans Symbols, Noto Sans Symbols2
+Noto Sans Math
+Noto Sans Emoji
+
+Ubuntu 系列:
+Ubuntu (all weights)
+Ubuntu Mono (all weights)
+Ubuntu Sans (all variants)
+
+DejaVu 系列:
+DejaVu Sans, DejaVu Sans Mono, DejaVu Serif
+
+Liberation 系列:
+Liberation Sans, Liberation Serif, Liberation Mono (all styles)
+
+Free 系列:
+FreeSerif, FreeSans, FreeMono (regular, bold, italic, bold italic)
+
+WenQuanYi 文泉驿:
+WenQuanYi Micro Hei (微米黑)
+WenQuanYi Zen Hei (正黑)
+
+LXGW 霞鹜文楷:
+LXGW WenKai (Regular, Light, Bold)
+LXGW WenKai Mono (Regular, Light, Bold)
+
+中文字体补充:
+AR PL UKai (TW/HK/CN)
+AR PL UMing (TW/HK/CN)
+Source Han Sans / Noto Sans CJK SC
+Microsoft YaHei UI
+Noto Sans SC / Noto Serif SC

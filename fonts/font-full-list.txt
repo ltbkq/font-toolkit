@@ -1,0 +1,405 @@
+# 完整字体列表 (按类别)
+
+## 1. Windows 核心字体
+Arial
+Arial Black
+Arial Narrow
+Courier New
+Times New Roman
+Verdana
+Tahoma
+Georgia
+Impact
+Comic Sans MS
+Calibri
+Cambria
+Candara
+Consolas
+Constantia
+Corbel
+Trebuchet MS
+Segoe UI
+Segoe UI Emoji
+Segoe UI Symbol
+Segoe UI Black
+Segoe UI Historic
+Segoe MDL2 Assets
+Segoe Fluent Icons
+Segoe Print
+Segoe Script
+Segoe UI Variable
+Microsoft YaHei
+Microsoft YaHei UI
+Microsoft YaHei UI Light
+Microsoft JhengHei
+Microsoft JhengHei UI
+MingLiU
+PMingLiU
+NSimSun
+SimSun
+SimHei
+SimFang
+SimKai
+KaiTi
+FangSong
+Bahnschrift
+Franklin Gothic Medium
+Gabriola
+Javanese Text
+Ink Free
+Microsoft Sans Serif
+Microsoft PhagsPa
+Microsoft Himalaya
+Microsoft Tai Le
+Microsoft Yi Baiti
+Nirmala UI
+Leelawadee UI
+Malgun Gothic
+Segoe UI Emoji
+Webdings
+Wingdings
+Marlett
+Monotype Sorts
+Andale Mono
+
+## 2. Noto Sans 系列
+Noto Sans
+Noto Sans Mono
+Noto Sans Display
+Noto Sans Symbols
+Noto Sans Symbols2
+Noto Sans Math
+Noto Sans Emoji
+Noto Sans CJK SC
+Noto Sans CJK TC
+Noto Sans CJK HK
+Noto Sans CJK JP
+Noto Sans CJK KR
+Noto Sans Mono CJK SC
+Noto Sans Mono CJK TC
+Noto Sans Mono CJK HK
+Noto Sans Mono CJK JP
+Noto Sans Mono CJK KR
+Noto Sans Adlam
+Noto Sans Adlam Unjoined
+Noto Sans Arabic
+Noto Sans Armenian
+Noto Sans Balinese
+Noto Sans Bamum
+Noto Sans Batak
+Noto Sans Bengali
+Noto Sans Brahmi
+Noto Sans Buginese
+Noto Sans Buhid
+Noto Sans Canadian Aboriginal
+Noto Sans Chakma
+Noto Sans Cham
+Noto Sans Cherokee
+Noto Sans Coptic
+Noto Sans Cuneiform
+Noto Sans Cypriot
+Noto Sans Deseret
+Noto Sans Devanagari
+Noto Sans Egyptian Hieroglyphs
+Noto Sans Ethiopic
+Noto Sans Georgian
+Noto Sans Glagolitic
+Noto Sans Gothic
+Noto Sans Gujarati
+Noto Sans Gurmukhi
+Noto Sans Hanifi Rohingya
+Noto Sans Hebrew
+Noto Sans Imoorgul
+Noto Sans Kaithi
+Noto Sans Kayah Li
+Noto Sans Khmer
+Noto Sans Khojki
+Noto Sans Khudawadi
+Noto Sans Lao
+Noto Sans Lepcha
+Noto Sans Limbu
+Noto Sans Linear A
+Noto Sans Linear B
+Noto Sans Lisu
+Noto Sans Lycian
+Noto Sans Lydian
+Noto Sans Mahajani
+Noto Sans Malayalam
+Noto Sans Mandaic
+Noto Sans Manichaean
+Noto Sans Marchen
+Noto Sans Masaram Gondi
+Noto Sans Mende Kikakui
+Noto Sans Meroitic
+Noto Sans Miao
+Noto Sans Modi
+Noto Sans Mongolian
+Noto Sans Multani
+Noto Sans Myanmar
+Noto Sans Nabataean
+Noto Sans Nandinagari
+Noto Sans New Tai Lue
+Noto Sans N'Ko
+Noto Sans Nyiakeng Puachue Hmong
+Noto Sans Odia
+Noto Sans Ogham
+Noto Sans Ol Chiki
+Noto Sans Old Hungarian
+Noto Sans Old Italic
+Noto Sans Old North Arabian
+Noto Sans Old Permic
+Noto Sans Old Persian
+Noto Sans Old Sogdian
+Noto Sans Old South Arabian
+Noto Sans Old Turkic
+Noto Sans Oriya
+Noto Sans Osage
+Noto Sans Osmanya
+Noto Sans Pahawh Hmong
+Noto Sans Palmyrene
+Noto Sans Pau Cin Hau
+Noto Sans Phags Pa
+Noto Sans Phoenician
+Noto Sans Psalter Pahlavi
+Noto Sans Rejang
+Noto Sans Runic
+Noto Sans Samaritan
+Noto Sans Saurashtra
+Noto Sans Sharada
+Noto Sans Shavian
+Noto Sans Siddham
+Noto Sans Sinhala
+Noto Sans Sogdian
+Noto Sans Soyombo
+Noto Sans Sundanese
+Noto Sans Syloti Nagri
+Noto Sans Tagalog
+Noto Sans Tagbanwa
+Noto Sans Tai Le
+Noto Sans Tai Tham
+Noto Sans Tai Viet
+Noto Sans Takri
+Noto Sans Tamil
+Noto Sans Telugu
+Noto Sans Thaana
+Noto Sans Thai
+Noto Sans Tibetan
+Noto Sans Tifinagh
+Noto Sans Tirhuta
+Noto Sans Ugaritic
+Noto Sans Vai
+Noto Sans Wancho
+Noto Sans Warang Citi
+Noto Sans Yezidi
+Noto Sans Yi
+Noto Sans Zanabazar Square
+Noto Sans Newa
+Noto Sans Makasar
+Noto Sans Javanese
+Noto Sans Kaithi
+Noto Sans Bhaiksuki
+Noto Sans Sharada
+
+## 3. Noto Serif 系列
+Noto Serif
+Noto Serif CJK SC
+Noto Serif CJK TC
+Noto Serif CJK HK
+Noto Serif CJK JP
+Noto Serif CJK KR
+Noto Serif Armenian
+Noto Serif Balinese
+Noto Serif Bengali
+Noto Serif Brahmi
+Noto Serif Cambodian
+Noto Serif Chakma
+Noto Serif Cham
+Noto Serif Cherokee
+Noto Serif Coptic
+Noto Serif Cypriot
+Noto Serif Devanagari
+Noto Serif Display
+Noto Serif Ethiopic
+Noto Serif Georgian
+Noto Serif Glagolitic
+Noto Serif Gothic
+Noto Serif Gujarati
+Noto Serif Gurmukhi
+Noto Serif Hebrew
+Noto Serif Kannada
+Noto Serif Khmer
+Noto Serif Khojki
+Noto Serif Lao
+Noto Serif Malayalam
+Noto Serif Myanmar
+Noto Serif Nandinagari
+Noto Serif New Tai Lue
+Noto Serif N'Ko
+Noto Serif Oriya
+Noto Serif Osage
+Noto Serif Palmyrene
+Noto Serif Pau Cin Hau
+Noto Serif Phags Pa
+Noto Serif Psalter Pahlavi
+Noto Serif Sharada
+Noto Serif Sinhala
+Noto Serif Tamil
+Noto Serif Telugu
+Noto Serif Thai
+Noto Serif Tibetan
+Noto Serif Tifinagh
+Noto Serif Tirhuta
+Noto Serif Warang Citi
+Noto Serif Yezidi
+Noto Serif Devanagari
+Noto Serif Telugu
+
+## 4. Noto Mono CJK
+Noto Sans Mono CJK SC
+Noto Sans Mono CJK TC
+Noto Sans Mono CJK HK
+Noto Sans Mono CJK JP
+Noto Sans Mono CJK KR
+
+## 5. Noto UI 系列
+Noto Sans UI (各语言)
+Noto Serif UI
+Noto Looped Lao UI
+Noto Sans Thai UI
+Noto Sans Myanmar UI
+Noto Sans Arabic UI
+Noto Sans Devanagari UI
+Noto Sans Gujarati UI
+Noto Sans Gurmukhi UI
+Noto Sans Telugu UI
+Noto Sans Tamil UI
+Noto Sans Malayalam UI
+Noto Sans Kannada UI
+Noto Sans Bengali UI
+Noto Sans Oriya UI
+Noto Sans Sinhala UI
+Noto Sans Tibetan UI
+Noto Sans Georgian UI
+Noto Sans Armenian UI
+Noto Sans Georgian UI
+Noto Sans Hebrew UI
+Noto Sans Arabic UI
+Noto Sans Balinese UI
+Noto Sans Javanese UI
+Noto Sans Myanmar UI
+Noto Sans Khmer UI
+Noto Sans Lao UI
+Noto Sans New Tai Lue UI
+Noto Sans Thai UI
+
+## 6. Ubuntu 系列
+Ubuntu
+Ubuntu Mono
+Ubuntu Sans
+Ubuntu Sans Mono
+
+## 7. DejaVu 系列
+DejaVu Sans
+DejaVu Sans Mono
+DejaVu Serif
+DejaVu Math TeX Gyre
+
+## 8. Liberation 系列
+Liberation Sans
+Liberation Serif
+Liberation Mono
+
+## 9. Free 系列 (OTF)
+FreeSerif
+FreeSans
+FreeMono
+
+## 10. 中文字体
+WenQuanYi Micro Hei (微米黑)
+WenQuanYi Zen Hei (正黑)
+LXGW WenKai (霞鹜文楷)
+LXGW WenKai Mono (霞鹜文楷等宽)
+AR PL UKai TW
+AR PL UKai TW MBE
+AR PL UMing TW
+AR PL UMing HK
+AR PL UMing CN
+SimSun-ExtG (宋体-ExtG)
+SimSun-ExtB (宋体-ExtB)
+MingLiU-ExtB (细明体-ExtB)
+PMingLiU-ExtB (新细明体-ExtB)
+Source Han Sans SC (思源黑体)
+Source Han Serif SC (思源宋体)
+Noto Sans CJK SC
+Noto Serif CJK SC
+
+## 11. 数学/符号字体
+MathJax_Main
+MathJax_Math
+MathJax_SansSerif
+MathJax_Serif
+MathJax_Script
+MathJax_Typewriter
+MathJax_Size1-4
+MathJax_Fraktur
+MathJax_Caligraphic
+MathJax_Vector
+MathJax_AMS
+MathJax_WinIE6
+MathJax_WinChrome
+OpenSymbol
+Standard Symbols PS
+Symbol
+Webdings
+Wingdings
+Marlett
+
+## 12. 显示/装饰字体
+Impact
+Comic Sans MS
+Papyrus
+Curlz MT
+
+## 13. Emoji 字体
+Noto Color Emoji
+Segoe UI Emoji
+
+## 14. 其他字体
+Andale Mono
+D050000L
+Dolgats
+Franklin Gothic Medium
+Gadugi
+Gabriola
+Hololens MDL2 Assets
+Javanese Text
+LxgwWenKai
+Microsoft PhagsPa
+Moe Standard Kai
+Moe Standard Song
+Monotype Sorts
+Namskoot
+P052
+P052-Bold
+P052-Italic
+Palatino Linotype
+SIL Open Font
+SIL Graphite
+Standard Symbols PS
+Sun-ExtA
+Sun-ExtB
+Surya
+Taile
+Thai SL
+TlwgMono
+TlwgTypo
+TlwgTypist
+Trees
+Umpush
+Vani
+Vijaya
+Visp
+Xits
+Yanone Kaffeesatz
+Z003
+Zcool
